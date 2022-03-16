@@ -1,0 +1,24 @@
+{
+  "name": "sesion2-qa",
+  "version": "1.0.0",
+  "description": "using newman cli with NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edward25nov/newman.git"
+  },
+  "author": "Edward Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edward25nov/newman/issues"
+  },
+  "homepage": "https://github.com/edward25nov/newman#readme",
+  "dependencies": {
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.7"
+  }
+}
