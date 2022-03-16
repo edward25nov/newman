@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/edward25nov/newman#readme",
   "dependencies": {
+    "minimist": "^1.2.5",
     "newman": "^5.3.2",
     "newman-reporter-htmlextra": "^1.22.7"
   }
