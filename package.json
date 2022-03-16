@@ -1,5 +1,5 @@
 {
-  "name": "sesion2-qa",
+  "name": "sesion2",
   "version": "1.0.0",
   "description": "using newman cli with NodeJs",
   "main": "app.js",
