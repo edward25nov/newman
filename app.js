@@ -2,11 +2,11 @@ var newman = require('newman'); // require Newman in your project
 
 var repPath = 'reports/';
 
-optionsArray = {
+var optionsArray = {
     collection: require('./collections/Restful Booker.postman_collection.json'),
     environment: require('./environments/Production.postman_environment.json'),
-    reporters: ['cli', 'htmlextra'],
-    reporter: { htmlextra: { export: repPath.concat('index.html'), title: 'Sesion 2 Report' } }
+    reporters: ['cli', 'htmlextra', 'junit'],
+    reporter: { htmlextra: { export: repPath.concat('index.html'), title: 'Sesion 2 Report' }, junit: { export: repPath.concat('junit.xml') } }
 }
 
 newman.run(optionsArray, function (err) {
