@@ -1,6 +1,6 @@
 {
   "name": "sesion2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "using newman cli with NodeJs",
   "main": "app.js",
   "scripts": {
