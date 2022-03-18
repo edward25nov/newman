@@ -1,5 +1,5 @@
 # Newman
-Sesión 2 uso de newman
+Sesion 2 uso de newman
 
 ## Instalación
 

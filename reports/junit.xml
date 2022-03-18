@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Using data files" tests="4" time="0.440">
-  <testsuite name="POST Request" id="3cdbc5b2-6a33-4629-bee0-735a8af46aa5" timestamp="2022-03-16T04:06:32.060Z" tests="1" failures="0" errors="0" time="0.110">
-    <testcase name="Response has data value" time="0.073" classname="UsingDataFiles"/>
+<testsuites name="Using data files" tests="4" time="0.498">
+  <testsuite name="POST Request" id="af8c4884-322b-43fd-99e7-88f2ef9003b8" timestamp="2022-03-18T23:22:01.652Z" tests="1" failures="0" errors="0" time="0.124">
+    <testcase name="Response has data value" time="0.080" classname="UsingDataFiles"/>
   </testsuite>
 </testsuites>
